@@ -3,8 +3,8 @@
 ## Titanic Survival Exploration
 
 ### Result
--[titanic_survival_exploration.ipynb](titanic_survival_exploration.ipynb)
--[titanic_survival_exploration.html](titanic_survival_exploration.html)
+- [titanic_survival_exploration.ipynb](titanic_survival_exploration.ipynb)
+- [titanic_survival_exploration.html](titanic_survival_exploration.html)
 
 ### Install
 
